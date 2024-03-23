@@ -1,3 +1,9 @@
+# About
+
+This is a project for making the search and installation of GitHub releases software easy for non-technical people who may become confused where and what to download when they are redirected to GitHub.
+
+A small contribution from my side to the awesome open source community
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
