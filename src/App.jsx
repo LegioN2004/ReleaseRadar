@@ -1,16 +1,13 @@
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// import './App.css'
-import { Home } from './routes/Home';
+import { Home } from "./routes/Home";
 
 function App() {
-	return (
-		<>
-			<div>
-				<Home></Home>
-			</div>
-		</>
-	);
+  return (
+    <>
+      <div>
+        <Home></Home>
+      </div>
+    </>
+  );
 }
 
 export default App;
