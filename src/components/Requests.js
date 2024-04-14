@@ -4,7 +4,7 @@ import { JSONHeroSearch } from "@jsonhero/fuzzy-json-search";
 const user_name = "jgm";
 const repo_name = "pandoc";
 
-const getFunction2 = async () => {
+export const getFunction2 = async () => {
   try {
     const response = await axios.get(
       `https://api.github.com/search/repositories?q=${repo_name}`,
@@ -21,7 +21,7 @@ const getFunction2 = async () => {
   }
 };
 
-const getFunction = async () => {
+export const getFunction = async () => {
   try {
     const response = await axios.get(
       `https://api.github.com/repos/${user_name}/${repo_name}/releases/latest`,
