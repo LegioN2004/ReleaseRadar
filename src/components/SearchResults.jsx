@@ -1,5 +1,6 @@
 import { getFunction2 } from "./Requests.js";
 // import { Link } from "react-router-dom";
+import { SearchBar } from "./SearchBar.jsx";
 
 // <div className="flex justify-center pt-8">{getFunction}</div>
 export function SearchResults() {
