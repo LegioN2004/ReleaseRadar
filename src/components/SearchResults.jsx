@@ -1,8 +1,3 @@
-import { getFunction2 } from "./Requests.js";
-// import { Link } from "react-router-dom";
-import { SearchBar } from "./SearchBar.jsx";
-
-// <div className="flex justify-center pt-8">{getFunction}</div>
 export function SearchResults() {
   return (
     <>
@@ -10,9 +5,9 @@ export function SearchResults() {
         <div>user_name/repo_name(main repo and downloads container div)</div>
         <div className="grid grid-cols-12">
           {/* <Link to="https://microsoft.com"> */}
-            <div className="border-black p-2 m-1 border-2 col-span-2 hover:cursor-pointer">
-              windows x86_64 msi
-            </div>
+          <div className="border-black p-2 m-1 border-2 col-span-2 hover:cursor-pointer">
+            windows x86_64 msi
+          </div>
           {/* </Link> */}
           <div className="border-black p-2 m-1 border-2 col-span-2">
             windows x86_64 zip

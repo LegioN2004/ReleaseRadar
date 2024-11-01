@@ -8,7 +8,7 @@ export function Home() {
 			<div>
 				<Navbar></Navbar>
 				<SearchBar></SearchBar>
-				{/* <SearchResults></SearchResults> */}
+				{/*<SearchResults></SearchResults>*/}
 			</div>
 		</>
 	);
