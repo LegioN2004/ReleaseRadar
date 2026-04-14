@@ -1,4 +1,4 @@
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/Navbar.tsx";
 import SearchResults from "@/components/SearchResults";
 
 export default function Home() {
