@@ -368,7 +368,7 @@ export default function SearchResults() {
 			<footer className="relative z-10 border-t border-[#1e1e2e] px-6 py-8 text-center">
 				<div className="mx-auto w-full max-w-275">
 					<p className="font-mono text-[11px] leading-7 text-[#6b6b8a]">
-						ReleaseRadar searches GitHub, GitLab, Gitea, Codeberg and more.
+						ReleasesRadar searches GitHub, GitLab, Gitea, Codeberg and more.
 						<br />
 						Uses public APIs, no tracking, no account needed.
 					</p>

@@ -7,7 +7,7 @@ export default function Navbar() {
 					className="flex items-center gap-2.5 text-base font-bold text-[#e8e8f0] font-mono"
 				>
 					<span className="h-2 w-2 animate-pulse rounded-full bg-[#00e5a0] shadow-[0_0_8px_#00e5a0]" />
-					ReleaseRadar
+					ReleasesRadar
 				</a>
 
 				<div className="hidden items-center gap-2 md:flex">
